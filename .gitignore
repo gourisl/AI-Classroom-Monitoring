@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Database records
+*.db
+*.sqlite
+*.sqlite3
+
+# AI model files
+*.pt
+*.task
+
+# Secrets
+.env
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
